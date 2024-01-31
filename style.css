@@ -1,0 +1,294 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+.desktop_index {
+  display: flex;
+  max-width: 1600px;
+  height: 2925px;
+  flex-direction: column;
+}
+.Rectangle_25 {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 75px;
+  flex-shrink: 0;
+  background-color: #222;
+}
+
+.content_rec {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  min-height: 75px;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: start;
+  padding-left: 14.4375%;
+  padding-right: 15%;
+  gap: 41px;
+}
+.Group_2 {
+  position: relative;
+  margin: auto;
+  width: 44px;
+  height: 38px;
+  flex-shrink: 0;
+}
+.Forma1 {
+  margin: auto;
+  width: 26.002px;
+  height: 26.792px;
+  flex-shrink: 0;
+}
+
+.Button_copy {
+  position: absolute;
+  top: 26px;
+  left: 75vw;
+  width: 158.996px;
+  height: 29px;
+  margin: auto;
+  align-self: flex-end;
+}
+.Background {
+  display: flex;
+  max-width: 1600px;
+  height: 764px;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  background-color: #f1e4e6;
+}
+.Layer57RemovebgPreview1 {
+  max-width: 800.58px;
+  height: 764px;
+}
+.Rectangle16Copy {
+  width: 12px;
+  height: 92px;
+  background: #f16d7f;
+}
+.TheBrandOfLuxeriousFashion {
+  color: #222;
+  font-family: Lato;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+.OF_LUXERIOS {
+  color: #222;
+  font-family: Lato;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.FASHION {
+  color: #f16d7f;
+  font-family: Lato;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.Special_offers {
+  display: flex;
+  max-width: 1600px;
+  height: 631px;
+  padding-left: 0.14vw;
+  padding-right: 0.14vw;
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  display: grid;
+  max-width: 1140px;
+  height: 480px;
+  padding-left: 230;
+  padding-right: 230;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
+  grid-auto-flow: row;
+  column-gap: 30px;
+  row-gap: 30px;
+}
+.long {
+  display: grid;
+  grid-column: span 3;
+  max-width: 1140px;
+  height: 180px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: flex-end;
+  background: rgba(33, 22, 22, 0.7);
+}
+.long1 {
+  display: flex;
+  grid-area: 1/1;
+  max-width: 1140px;
+  height: 180px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  background: rgba(33, 22, 22, 0.7);
+}
+.textbox {
+  grid-area: 1/1;
+  width: 159.72px;
+  text-align: center;
+}
+.Rectangl20 {
+  display: grid;
+  width: 360px;
+  height: 260px;
+  flex-shrink: 0;
+  background: rgba(33, 22, 22, 0.7);
+}
+.text1 {
+  color: white;
+  font-size: 16px;
+  font-family: Lato;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.text2 {
+  color: #f16d7f;
+  font-size: 24px;
+  font-family: Lato;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.Rectangl21 {
+  grid-area: 1/1;
+  display: flex;
+  width: 360px;
+  height: 260px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  background: rgba(33, 22, 22, 0.7);
+  justify-self: flex-start;
+}
+.Fetured {
+  display: flex;
+  margin-top: 35px;
+  max-width: 1600px;
+  height: 1551px;
+  padding-left: 0.14vw;
+  padding-right: 0.14vw;
+  justify-content: center;
+}
+.Fetured_in {
+  display: flex;
+  max-width: 1140px;
+  height: 1311px;
+  padding-left: 0.14vw;
+  padding-right: 0.14vw;
+  flex-direction: column;
+  align-items: center;
+}
+.Fetured_text {
+  color: #222;
+  font-family: Lato;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.Shop {
+  color: #9f9f9f;
+  font-family: Lato;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.pictures {
+  display: grid;
+  max-width: 1140px;
+  height: auto;
+  margin-top: 48px;
+  padding-left: 230;
+  padding-right: 230;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto auto;
+  grid-auto-flow: row;
+  column-gap: 30px;
+  row-gap: 30px;
+}
+.Rectangle5 {
+  margin-top: 25px;
+  width: 212px;
+  height: 48px;
+  flex-shrink: 0;
+  border-color: #f16d7f;
+}
+.Browse1 {
+  width: 212px;
+  height: 48px;
+  flex-shrink: 0;
+  color: #f26376;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border-color: #f16d7f;
+  background: none;
+  border-style: solid;
+}
+.Pic {
+  width: 360px;
+  height: 581px;
+  flex-shrink: 0;
+  background: #f8f8f8;
+}
+
+.box_im {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: 360px;
+  height: 420px;
+  flex-shrink: 0;
+  background: #f7e4e2;
+}
+.ElleryXMOCapsule {
+  margin-top: 24.385px;
+  width: 148.11px;
+  margin-left: 18px;
+  color: black;
+  font-size: 13px;
+  font-family: Lato;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.KnownForHer {
+  margin-left: 18px;
+  margin-top: 12.65px;
+  width: 314.74px;
+  color: #5d5d5d;
+  font-size: 14px;
+  font-family: Lato;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Price {
+  margin-top: 18px;
+  margin-left: 18px;
+  width: 52.46px;
+  color: #f16d7f;
+  font-size: 16px;
+  font-family: Lato;
+  font-weight: 400;
+  word-wrap: break-word;
+}
